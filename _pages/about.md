@@ -7,8 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello!
-
 I'm Ege.
 
 Currently, I am a Director at [AE Studio](https://ae.studio), where I lead teams developing agency-increasing products.
