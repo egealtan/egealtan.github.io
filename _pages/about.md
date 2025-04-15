@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Hello! 
+Hello!
 
 I'm Ege. I've recently completed my Ph.D. in Neural Engineering at Northwestern University, within [Miller Limb Lab](https://www.millerlimblab.com/) and [Neuromuscular Control Lab](https://www.sralab.org/research/labs/Neuromuscular%20Control%20Lab), where I explored how the brain orchestrates hand movements. My doctoral work was aimed at developing biomimetic brain-computer interfaces to help individuals with paralysis regain their ability to move. For more details about my work, you can view my doctoral [dissertation](https://arch.library.northwestern.edu/concern/generic_works/gf06g317d?locale=en) or my [CV](http://egealtan.github.io/files/Ege_Altan_CV_20230925.pdf).
 
